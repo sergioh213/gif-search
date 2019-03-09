@@ -1,13 +1,13 @@
-#GIF search
+# GIF search
 
 A Google for gifs. Search for any GIF and share it with friends.
 
 ## screenshots
 
-![alt text](https://github.com/sergioh213/gif-search/tree/master/public/screenshots/Screenshot 2019-03-09 at 19.47.07.png)
-![alt text](https://github.com/sergioh213/gif-search/tree/master/public/screenshots/Screenshot 2019-03-09 at 19.48.00.png)
-![alt text](https://github.com/sergioh213/gif-search/tree/master/public/screenshots/Screenshot 2019-03-09 at 19.52.01.png)
-![alt text](https://github.com/sergioh213/gif-search/tree/master/public/screenshots/Screenshot 2019-03-09 at 19.53.25.png)
+![alt text](https://github.com/sergioh213/gif-search/blob/master/public/screenshots/Screenshot%202019-03-09%20at%2019.47.07.png)
+![alt text](https://github.com/sergioh213/gif-search/blob/master/public/screenshots/Screenshot%202019-03-09%20at%2019.48.00.png)
+![alt text](https://github.com/sergioh213/gif-search/blob/master/public/screenshots/Screenshot%202019-03-09%20at%2019.52.01.png)
+![alt text](https://github.com/sergioh213/gif-search/blob/master/public/screenshots/Screenshot%202019-03-09%20at%2019.53.25.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
