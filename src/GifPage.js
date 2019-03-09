@@ -45,8 +45,6 @@ class GifPage extends Component {
     this.state = {
       urlStart: "https://api.giphy.com/v1/gifs/"
     };
-
-    this.getGif = this.getGif.bind(this);
   }
 
   componentDidMount = () => {
